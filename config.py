@@ -2,7 +2,7 @@
 import os
 
 # ==================== BOT CONFIGURATION ====================
-BOT_TOKEN = "8769141184:AAEoxP61Uq3RLdldWGGvgc9-W6Pvu3eYKmA"
+BOT_TOKEN = "8769141184:AAEJOyBkPhmON0sr5EpraYrSJYZEfqXk4iQ"
 
 # ==================== API CONFIGURATION ====================
 API_ENDPOINT = "https://yttttttt.anshapi.workers.dev/"
